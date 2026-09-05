@@ -64,22 +64,6 @@
 
 ## 📌 Featured Projects
 
-### 🌾 Crop Yield Prediction
-
-Machine learning pipeline for predicting crop yield using agricultural data, preprocessing, model training, and evaluation.
-
-**Technologies:** Python · Pandas · Scikit-learn · XGBoost · Machine Learning
-
----
-
-### 💧 Smart Irrigation System
-
-Data-driven intelligent irrigation solution designed to improve irrigation decisions using machine learning techniques.
-
-**Technologies:** Python · Machine Learning · Data Processing
-
----
-
 ### ⚙️ Backend & REST API Projects
 
 Developing backend services with RESTful APIs, database integration, business logic, authentication, error handling, and scalable application architecture.
